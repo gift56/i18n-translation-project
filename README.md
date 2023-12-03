@@ -1,3 +1,8 @@
+# Build and Deploy a Full Stack MERN Next.js 14 Threads Web Application
+
+![Threads](https://i.ibb.co/2dSC0TQ/Thumbnail-1.png)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

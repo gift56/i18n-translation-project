@@ -2,25 +2,37 @@
 
 ![Threads](https://i.ibb.co/2dSC0TQ/Thumbnail-1.png)
 
-
 ## Getting Started
 
 ### Setup
 
-First, run the development server:
+To set up a development environment, please follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Clone the repo
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+   ```shell
+    git clone https://github.com/gift56/threads-website
+   ```
 
+2. Install the dependencies
+
+   ```shell
+    npm install
+   ```
+
+   If you get an error, please check the console for more information.
+
+   If you don't get an error, you are ready to start development.
+
+3. Run the app
+
+   ```shell
+   npm run dev
+   ```
+
+   Project will be running in the browser.
+
+   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 

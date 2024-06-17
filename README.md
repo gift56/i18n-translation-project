@@ -41,6 +41,12 @@ i18Next is a  platform designed to offer a seamless shopping translations to use
 - react-i18next command **npm install react-i18next**
 - i18next-resources-to-backend command **npm install i18next-resources-to-backend**
 - next-i18n-router command **npm install next-i18n-router**
+- i18nexus-cli -g command **npm install i18nexus-cli -g**
+- i18nexus-cli --save-dev command **npm install i18nexus-cli --save-dev**
+
+
+## Helper code
+- i18nexus.com/tutorials/nextjs/react-i18next
 
 ## Conclusion
 

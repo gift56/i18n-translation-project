@@ -46,7 +46,8 @@ i18Next is a  platform designed to offer a seamless shopping translations to use
 
 
 ## Helper code
-- i18nexus.com/tutorials/nextjs/react-i18next
+
+- https://i18nexus.com/tutorials/nextjs/react-i18next
 
 ## Conclusion
 
